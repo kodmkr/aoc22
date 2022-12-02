@@ -5,6 +5,7 @@
   :depends-on ("cl-ppcre"
                "arrow-macros"
                "alexandria"
+               "serapeum"
                "anaphora"
                "fiveam"
                "bit-smasher")
