@@ -40,7 +40,7 @@
   (:use :cl :arrow-macros :vecto))
 
 (defpackage :day13
-  (:use :cl :arrow-macros))
+  (:use :cl :arrow-macros :1am))
 
 (defpackage :day14
   (:use :cl :arrow-macros))
