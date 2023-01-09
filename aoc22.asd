@@ -7,7 +7,8 @@
                "alexandria"
                "serapeum"
                "anaphora"
-               "fiveam"
+               "1am"
+               "vecto"
                "bit-smasher")
   :version "0.0.1"
   :serial t
